@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CToF/src/CTOF.cpp&apos; to &apos;CToF.cpp&apos;" description="Rename resource &apos;CTOF.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/CTOF.cpp" name="CToF.cpp" stamp="1478359557529" updateReferences="true"/>
+</session>

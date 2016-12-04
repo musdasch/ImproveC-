@@ -1,0 +1,17 @@
+/*
+ * Summe.h
+ *
+ *  Created on: 03.12.2016
+ *      Author: Tim Vögtli
+ */
+
+#ifndef SRC_SUMME_H_
+#define SRC_SUMME_H_
+
+class Summe {
+public:
+	Summe();
+	virtual ~Summe();
+};
+
+#endif /* SRC_SUMME_H_ */

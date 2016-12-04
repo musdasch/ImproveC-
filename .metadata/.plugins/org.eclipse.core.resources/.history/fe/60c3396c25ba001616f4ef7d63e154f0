@@ -1,0 +1,19 @@
+/*
+ * limits.cpp
+ *
+ * The limits program is a example from the book "C++ Einfürung und Professionelle Programmierung"
+ * This program outputs all limits from trivial data types.
+ *
+ * Created on: 04.12.2016
+ * Author: Tim Vögtli
+ */
+#include<iostream>
+#include<limits>;
+using namespace std;
+
+int main(){
+
+	cout << "Grenzwerte für Triviale Datentypen: " << endl;
+
+	return 0;
+}
