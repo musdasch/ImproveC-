@@ -21,4 +21,5 @@ This program outputs all limits from trivial data types.
 
 ## Log
  - Add "hello_world" and "CToF" to the repository 05.11.2016
- - Add "Limits" "Overflow" and "Summe" to the repository 04.12.2016 
+ - Add "Limits" "Overflow" and "Summe" to the repository 04.12.2016
+ - Add "Exactly" to the repository 11.12.2016
