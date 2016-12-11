@@ -19,7 +19,14 @@ int main(){
 	s2 = a;
 	s2 += b + c;
 
-	cout << "Sum 1: " << s1 << endl;
+	cout << "a = " << a << ", b = " << b << ", c = " << c << endl;
+	cout << "Sum 1 = " << a << " + " << b << endl;
+	cout << "Sum 1 = Sum 1 + " << c << endl;
+	cout << "Sum 1 = " << s1 << endl << endl;
+
+	cout << "a = " << a << ", b = " << b << ", c = " << c << endl;
+	cout << "Sum 2 = " << a << endl;
+	cout << "Sum 2 = Sum 2 + " << b << " + " << c << endl;
 	cout << "Sum 2: " << s2 << endl;
 }
 
