@@ -12,6 +12,7 @@
 using namespace std;
 
 int main(){
+	//Define variable
 	long sum, a, temp, count;
 
 	cout << "Number to start with: ";
