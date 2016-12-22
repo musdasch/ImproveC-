@@ -1,7 +1,7 @@
 /*
  * fibonacci.cpp
  *
- * The Fibonacci program displays the fibonacci sequence.It starts with a chosen number end ends after a defined length.
+ * The Fibonacci program displays the fibonacci sequence.It starts with a chosen number and ends after a defined length.
  * First you define the number to start with after you define the number of passes.
  *
  * Created on: 11.12.2016
