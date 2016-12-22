@@ -18,7 +18,7 @@ int main(){
 	cout << "Input: ";
 	cin >> x;
 
-	cout << "-----------------------" << endl;
+	cout << "----------------------------------------------" << endl;
 
 	// output for x
 	cout << "x               = " << x << endl;
@@ -38,6 +38,6 @@ int main(){
 	// output for the logarithmic value.
 	cout << "log(x)          = " << log(x) << endl;
 
-	cout << "-----------------------" << endl;
+	cout << "----------------------------------------------" << endl;
 
 }
