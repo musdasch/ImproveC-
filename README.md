@@ -4,6 +4,9 @@ It's a repository for my C++ skill training.
 ## Programs
 You will find the programs in the src folder.
 
+### Child
+The Child program is a loop that will ask you why until you typed stop.
+
 ### CToF
 A program with cout and cin. The program convert celsius to fahrenheit.
 
