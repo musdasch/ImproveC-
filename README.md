@@ -4,20 +4,29 @@ It's a repository for my C++ skill training.
 ## Programs
 You will find the programs in the src folder.
 
-### hello world
-As usual a hello world program.
+### CToF
+A program with cout and cin. The program convert celsius to fahrenheit.
 
-### celsius to fahrenheit
-First program with cout and cin.
+### Exactly
+This program is a example for accuracy with float numbers. The results s1 and s2 should be the same but computer arithmetic has some inaccuracies. for improvement of the accuracy you have to order the sums and add the smallest number first.
 
-### Summe
-It is a program to calculate tow numbers together.
+### Fibonacci
+The Fibonacci program displays the fibonacci sequence.It starts with a chosen number and ends after a defined length. First you define the number to start with after you define the number of passes.
+ 
+### HelloWorld
+As usual a hello world program for basic understanding.
+
+### Limits
+This program outputs all limits from trivial data types. ( at this time the most )
+
+### MathExpert
+This program is a example for math functions in the cmath library.
 
 ### Overflow
 This program multiply tow numbers together so that they exceeded the limit and displays the result.
 
-### Limits
-This program outputs all limits from trivial data types.
+### Summe
+It is a program to calculate tow numbers together.
 
 ## Log
  - Add "hello_world" and "CToF" to the repository 05.11.2016
