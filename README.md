@@ -28,6 +28,9 @@ This program is a example for math functions in the cmath library.
 ### Overflow
 This program multiply tow numbers together so that they exceeded the limit and displays the result.
 
+### Rectangle
+This program get the area from tow nummbers. It's a program to use class structure in c++.
+
 ### Summe
 It is a program to calculate tow numbers together.
 
@@ -41,3 +44,4 @@ It uses a for loop.
  - Add "Fibonacci" to the repostiory 12.12.2016
  - Add "MathExpert" to the repository 17.12.2016
  - Add "ForLoop" to the repository 12.02.2017
+ - Add "Rectangle" to the repository 06.03.2017
