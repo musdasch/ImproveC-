@@ -23,6 +23,7 @@ int main(){
 
 	//Output of a + b
 	cout << "Summe = " << sum;
+	return 0;
 }
 
 
